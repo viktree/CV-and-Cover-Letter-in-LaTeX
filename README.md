@@ -25,6 +25,4 @@ License:
 CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Important notes:  
-These templates needs to be compiled with XeLaTeX and the bibliography, if used,  
-needs to be compiled with biber rather than bibtex.  
-Furthermore, please install the font packs Adobe Garamond Pro and GillSans otherwise the .pdfs will not compile.  
+These templates needs to be compiled with XeLaTeX and the bibliography, if used, needs to be compiled with biber rather than bibtex. Furthermore, please install the font packs Adobe Garamond Pro and GillSans otherwise the .pdfs will not compile.  
