@@ -14,9 +14,7 @@ The templates were downloaded from:
 
 http://www.LaTeXTemplates.com
 
-Some edits were made by:
-
-Erwin Rooijakkers (erwinrooijakkers@gmail.com)  
+Some edits made:
 Changed to a more professional and clean look by changing font and some other parameters.  
 Contents added to someone who works in a laser lab.  
 Version 1 (1/8/13)  
